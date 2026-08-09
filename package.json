@@ -21,13 +21,8 @@
     "hooks": "lefthook install",
     "prepare": "lefthook install"
   },
-"devDependencies": {
+  "devDependencies": {
     "lefthook": "^1.11.13",
     "next": "16.2.12"
-  },
-  "pnpm": {
-    "overrides": {
-      "js-yaml": ">=4.3.1"
-    }
   }
 }
